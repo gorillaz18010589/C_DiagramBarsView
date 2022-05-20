@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="DiagramBarsView">
+        <attr name="styleS" format="integer" />
+        <attr name="bar_loop_timeS" format="integer" />
+        <attr name="paintFingerPathS" format="boolean" />
+        <attr name="touchableS" format="boolean" />
+        <attr name="fingerPaintColorS" format="integer" />
+        <attr name="barCountS" format="integer" />
+        <attr name="barMaxLevelS" format="integer" />
+        <attr name="barMinLevel2S" format="float" />
+        <attr name="barWidthS" format="float" />
+        <attr name="sideWidthS" format="float" />
+        <attr name="barColorS" format="reference|color"/>
+        <attr name="backLineColorS" format="reference|color"/>
+        <attr name="barSpaceS" format="float"/>
+    </declare-styleable>
+</resources>
